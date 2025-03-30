@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b5l5mmclwwfef"]
+
+[ext_resource type="Script" uid="uid://bxr4gaddhd30g" path="res://plugins/template/core/library.gd" id="1_qypte"]
+
+[node name="Library" type="Node"]
+script = ExtResource("1_qypte")
+library_id = "mylib"
+metadata/_custom_type_script = "uid://c2iso5fxtppk7"
